@@ -3,10 +3,10 @@
 ### About Me
 I am a passionate developer with a passion for building interactive experiences, whether they live on a browser or inside a game engine. I enjoy bridging the gap between clean code and engaging user interfaces.
 
-- 🔭 I’m currently working on a new game
-- 🎮 Deeply interested in **Game Development** using Godot.
-- 🌱 I’m currently learning **[New Skill, e.g., Advanced GDScript or React]**
-- 💬 Ask me about **Web Dev or Indie Games**
+-  I’m currently working on a game called **The Pixel Adventurer**
+-  Deeply interested in **Game Development** using Godot.
+-  I’m currently learning **Godot Engine and React**
+-  Ask me about **Web Dev or Indie Games**
 
 ---
 
