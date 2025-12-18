@@ -14,7 +14,7 @@ I am a passionate developer with a passion for building interactive experiences,
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Web Frontend** | ![HTML5](HTML-logo.png) ![CSS3](CSS-logo.png) ![JavaScript](JS-logo.png) |
+| **Web Frontend** | <img src="HTML-logo.png" alt="Logo" width="100" height="100"> ![CSS3](CSS-logo.png) ![JavaScript](JS-logo.png) |
 | **Scripting** | ![Python](PY-logo.png) |
 | **Game Dev** | ![Godot Engine](Godot-logo.png) |
 | **Tools** | ![Git](Git-logo.png) ![VS Code](VS-logo.png) |
