@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mitrajsinh Parmar! 
 
-### 👨‍💻 About Me
-I am a passionate developer with a love for building interactive experiences, whether they live on a browser or inside a game engine. I enjoy bridging the gap between clean code and engaging user interfaces.
+### About Me
+I am a passionate developer with a passion for building interactive experiences, whether they live on a browser or inside a game engine. I enjoy bridging the gap between clean code and engaging user interfaces.
 
-- 🔭 I’m currently working on **[Project Name/Type]**
+- 🔭 I’m currently working on a new game
 - 🎮 Deeply interested in **Game Development** using Godot.
 - 🌱 I’m currently learning **[New Skill, e.g., Advanced GDScript or React]**
 - 💬 Ask me about **Web Dev or Indie Games**
@@ -23,12 +23,8 @@ I am a passionate developer with a love for building interactive experiences, wh
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Mitrajsinh-Parmar]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Mitrajsinh-Parmar]&layout=compact&theme=radical)
 
 ---
 
-### 📫 Let's Connect
-- **LinkedIn:** [Link to your profile]
-- **Portfolio:** [Link to your site]
-- **Twitter/X:** [Link to your handle]
