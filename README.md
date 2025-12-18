@@ -3,10 +3,10 @@
 ### About Me
 I am a passionate developer with a passion for building interactive experiences, whether they are on a browser or inside a game engine. I enjoy bridging the gap between clean code and engaging user interfaces.
 
--  I’m currently working on a game called **The Pixel Adventurer**
+-  I’m currently working on a game called **The Pixel Adventurer**.
 -  Deeply interested in **Game Development** using Godot.
--  I’m currently learning **Godot Engine and React**
--  Ask me about **Web Dev or Indie Games**
+-  I’m currently learning **Godot Engine and React**.
+-  Ask me about **Web Dev or Games**.
 
 ---
 
@@ -14,10 +14,10 @@ I am a passionate developer with a passion for building interactive experiences,
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Web Frontend** | <img src="HTML-logo.png" alt="Logo" width="100" height="100"> <img src="CSS-logo.png" alt="Logo" width="100" height="100"> <img src="JS-logo.png" alt="Logo" width="100" height="100"> |
-| **Scripting** | <img src="PY-logo.png" alt="Logo" width="100" height="100"> |
-| **Game Dev** | <img src="Godot-logo.png" alt="Logo" width="150" height="150"> |
-| **Tools** | <img src="Git-logo.png" alt="Logo" width="100" height="100"> <img src="VS-logo.png" alt="Logo" width="100" height="100"> |
+| **Web Frontend** | <img src="HTML-logo.png" alt="Logo" width="50" height="50"> <img src="CSS-logo.png" alt="Logo" width="50" height="50"> <img src="JS-logo.png" alt="Logo" width="50" height="50"> |
+| **Scripting** | <img src="PY-logo.png" alt="Logo" width="50" height="50"> |
+| **Game Dev** | <img src="Godot-logo.png" alt="Logo" width="50" height="50"> |
+| **Tools** | <img src="Git-logo.png" alt="Logo" width="50" height="50"> <img src="VS-logo.png" alt="Logo" width="50" height="50"> |
 
 ---
 
