@@ -21,9 +21,3 @@ I am a passionate developer with a passion for building interactive experiences,
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitrajsinh-Parmar&show_icons=true&theme=radical)
-
----
-
