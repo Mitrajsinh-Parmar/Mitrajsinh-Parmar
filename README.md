@@ -20,10 +20,3 @@ I am a passionate developer with a passion for building interactive experiences,
 | **Tools** | <img src="Git-logo.png" alt="Logo" width="50" height="50"> <img src="VS-logo.png" alt="Logo" width="50" height="50"> |
 
 ---
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitrajsinh-Parmar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitrajsinh-Parmar&layout=compact&theme=radical)
-
----
